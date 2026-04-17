@@ -1,0 +1,7 @@
+## Pages
+- [- Our Store](/productdetail): No description available
+- [404 - Halaman Tidak Ditemukan](/notfound): Halaman yang Anda cari tidak dapat ditemukan.
+- [Gaiska Motor - Sparepart Motor & Kemitraan Toko](/home): Gaiska Motor menyediakan sparepart motor berkualitas dan program kemitraan toko sparepart. Bergabunglah dengan jaringan bisnis sparepart motor terpercaya di Indonesia.
+- [Owner & Tim Gaiska Motor](/owner): Profil Owner dan Tim Gaiska Motor. Komitmen kami adalah memberikan yang terbaik untuk Anda.
+- [Pembayaran Berhasil - Gaiska Motor](/success): Halaman konfirmasi pembayaran berhasil untuk Gaiska Motor.
+- [Toko - Gaiska Motor](/store): Jelajahi katalog lengkap sparepart dan aksesoris motor berkualitas dari Gaiska Motor.

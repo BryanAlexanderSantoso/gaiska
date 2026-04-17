@@ -74,14 +74,7 @@ const OwnerPage = () => {
               duration: 0.7,
               delay: 0.6
             }}>
-                <img src="https://horizons-cdn.hostinger.com/ad056630-8f51-4a15-82fa-630e5e89abd9/edi-4vkc4.jpg" alt="Kepala Cabang Bali & NTB" className="rounded-2xl w-full h-auto shadow-lg" style={{
-                aspectRatio: '1 / 1',
-                objectFit: 'cover'
-              }} />
-                <div className="absolute -bottom-4 -right-4 bg-gradient-to-r from-green-500 to-teal-600 p-4 rounded-xl shadow-lg flex items-center space-x-2">
-                  <Briefcase className="w-6 h-6 text-yellow-300" />
-                  <span className="font-bold text-white text-sm">(Operasional Manager) Edy Kurniawan SP</span>
-                </div>
+                
               </motion.div>
 
               <motion.div className="text-center md:text-left md:order-1"
@@ -95,10 +88,6 @@ const OwnerPage = () => {
               duration: 0.7,
               delay: 0.8
             }}>
-                <h2 className="text-4xl md:text-5xl font-orbitron font-bold glow-text mb-4">Operasional Manager Bali & Lombok NTB</h2>
-                <p className="text-lg text-gray-300 mb-6 leading-relaxed">
-                  Memimpin operasional di wilayah Bali dan Nusa Tenggara Barat, berkomitmen penuh untuk mengembangkan pasar dan melayani mitra dengan standar keunggulan Gaiska Motor.
-                </p>
               </motion.div>
             </div>
 
@@ -113,15 +102,6 @@ const OwnerPage = () => {
               duration: 0.7,
               delay: 1.0
             }}>
-                <img src="https://horizons-cdn.hostinger.com/ad056630-8f51-4a15-82fa-630e5e89abd9/gemini_generated_image_voeom0voeom0voeo-nPTMy.png" alt="Operasional Manager Sumatera Selatan, Lampung, Medan, dan Aceh" className="rounded-2xl w-full h-auto shadow-lg" style={{
-                aspectRatio: '1 / 1',
-                objectFit: 'cover'
-              }} />
-                <div className="absolute -bottom-4 -right-4 bg-gradient-to-r from-orange-500 to-red-600 p-4 rounded-xl shadow-lg flex items-center space-x-2">
-                  <Briefcase className="w-6 h-6 text-yellow-300" />
-                  <span className="font-bold text-white text-sm">(Operasional Manager)
- Amin Nur Rohman</span>
-                </div>
               </motion.div>
 
               <motion.div className="text-center md:text-left" initial={{
@@ -134,12 +114,6 @@ const OwnerPage = () => {
               duration: 0.7,
               delay: 1.2
             }}>
-                <h2 className="text-4xl md:text-5xl font-orbitron font-bold glow-text mb-4">
-                  Regional operasional Manager Sumatera
-                </h2>
-                <p className="text-lg text-gray-300 mb-6 leading-relaxed">
-                  Bertanggung jawab atas pengembangan dan pengelolaan operasional di wilayah Sumatera bagian selatan, Lampung, Medan, dan Aceh, memastikan pertumbuhan bisnis yang berkelanjutan.
-                </p>
               </motion.div>
             </div>
 
